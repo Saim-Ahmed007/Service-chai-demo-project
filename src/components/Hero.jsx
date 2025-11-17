@@ -4,7 +4,7 @@ import blurImage from '../assets/blur2.png'
 
 const Hero = () => {
     return (
-        <div className='pt-30 text-center relative overflow-hidden'>
+        <div className='pt-30 text-center relative overflow-hidden px-5 lg:px-0'>
             <h1 className='poppins-thin text-5xl'>Reimagining the new possibilities of</h1>
             <h1 className='text-[#00D8B8] text-5xl mt-5'>Customer Experience</h1>
             <p className='text-white mt-10'>Smart outsourcing, customer support & call center solutions for global businesses.</p>

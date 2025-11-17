@@ -5,7 +5,7 @@ import linkdlnIcon from '../assets/linkdln.png'
 const Footer = () => {
     return (
         <div className="w-9xl mx-auto -mt-50 md:-mt-10">
-            <div className='flex flex-col gap-8 text-center md:flex-row justify-evenly items-center'>
+            <div className='flex flex-col gap-8 text-center md:flex-row justify-evenly items-center md:items-start'>
                 <div className='w-2/5'>
                     <img src={footerLogo} alt="" className='w-[480px] h-[120px]' />
                 </div>
