@@ -35,7 +35,8 @@ const Footer = () => {
                     </span>
                     </p>
                     <div>
-                        <ul className='text-white flex justify-center items-center gap-12 text-sm'>
+                        <ul className='text-white flex justify-center items-center gap-4
+                        sm:gap-12 text-sm'>
                             <li>Home</li>
                             <li>About Us</li>
                             <li>Services</li>

@@ -10,7 +10,7 @@ const Hero = () => {
             <p className='text-white mt-10'>Smart outsourcing, customer support & call center solutions for global businesses.</p>
             <img src={blurImage} alt="" className='absolute bottom-120 -left-70 opacity-100 
             w-[600px]' />
-            <button className='text-[#0C1A3F] font-bold bg-[#00D8B8] rounded-xl px-10 py-5 mt-8'>Let's Grow Together</button>
+            <button className='text-[#0C1A3F] font-bold bg-[#00D8B8] hover:bg-[#00d8b8cd] rounded-xl px-10 py-5 mt-8 cursor-pointer'>Let's Grow Together</button>
             <img src={blurImage} alt="" className='absolute -right-70 bottom-40 opacity-100
              w-[600px]' />
             <div className='mt-20 relative h-[500px] overflow-hidden'>
